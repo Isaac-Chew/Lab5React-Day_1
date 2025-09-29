@@ -11,7 +11,7 @@ function App() {
       <Header />
       <Section_A />
       <Section_B />
-      <Footer />
+      <Footer owner = "Isaac Chew"/>
     </>
   )
 }
